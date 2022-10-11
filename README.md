@@ -37,7 +37,7 @@ The diff format used by `daff` is specified here:
 > http://paulfitz.github.io/daff-doc/spec.html
 
 This library is a stripped down version of the coopy toolbox (see
-http://share.find.coop).  To compare tables from different origins,
+https://github.com/paulfitz/coopy).  To compare tables from different origins,
 or with automatically generated IDs, or other complications, check out
 the coopy toolbox.
 
